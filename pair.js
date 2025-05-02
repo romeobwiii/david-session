@@ -58,19 +58,19 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEENORA MD SESSION IS 
+┃ROMEO MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 ROMEO BW III 𖥘
+❶ || Creator = 𖥘 MULAX OFFICIAL𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb3i75L3bbUyFPFwoN3x
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb5Tm5E6rsQnV4DIRO3z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://t.me/romeo_bw_iii👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 ROMEO BW III*
+©*2024-2099 MULAX OFFICIAL*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
