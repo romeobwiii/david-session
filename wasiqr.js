@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃QUEENORA MD SESSION IS 
+┃ROMEO MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 ROMEO BW III𖥘
+❶ || Creator = 𖥘 MULAX OFFICIAL𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb3i75L3bbUyFPFwoN3x
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vb5Tm5E6rsQnV4DIRO3z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://t.me/romeo_bw_iii 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 ROMEO BW III*
+©*2024-2099 MULAX OFFICIAL*
 ________________________________
 	
 _Don't Forget To Give Star To My Repo_`
